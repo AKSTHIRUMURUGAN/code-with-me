@@ -1,0 +1,2 @@
+nl=[]
+nl.insert
